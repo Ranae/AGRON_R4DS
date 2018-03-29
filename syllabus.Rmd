@@ -29,20 +29,17 @@ This course will closely follow the textbook *R for Data Science* with the objec
 #Tentative Course Outline:
 
 1. Introduction, Context, and Set-up \dotfill Week 1
-1. R4DS Section 1-3.4 Intro and Data Viz \dotfill Week 2
-1. R4DS Section 3.4-3.10 Data Viz \dotfill Week 3
-1. R4DS Section 4 Basics  \dotfill Week 4
-1. R4DS Section 7 EDA \dotfill Week 5
-1. R4DS Sections 8,9,10 Projects and Tibbles \dotfill Week 6
-1. R4DS Section 11 Data Import  \dotfill Week 7
-1. R4DS Section 12 Tidy Data \dotfill Week 8
-1. R4DS Section 13 Relational Data \dotfill Week 9
-1. R4DS Sections 14-15 Strings \dotfill Week 10
-1. R4DS Section 16 Dates and Times \dotfill Week 11
-1. R4DS Section 17-18 Programming and Pipes \dotfill Week 12
-1. R4DS Section 19 Functions \dotfill Week 13
-1. R4DS Section 20 Vectors \dotfill Week 14
-1. R4DS Section 21 Iteration \dotfill Week 15
+1. R4DS Section 1-3.4 Intro and Data Viz \dotfill Week 2-3
+1. R4DS Section 3.4-3.10 Data Viz \dotfill Week 4-5
+1. R4DS Section 4 -5 Basics and Transformations  \dotfill Week 6-7
+1. R4DS Section 7 EDA \dotfill Week 7-9
+1. R4DS Section 8,9,10 Projects and Tibbles \dotfill Week 10
+1. R4DS Section 11 Data Import  \dotfill Week 11
+1. R4DS Section 12 Tidy Data \dotfill Week 12
+1. R4DS Section 14-15 Strings \dotfill Week 13
+1. R4DS Section 16 Dates and Times \dotfill Week 14
+1. R4DS Section 17-18 Programming and Pipes \dotfill Week 15
+
 
 #Assessment: 
 
