@@ -1,0 +1,44 @@
+---
+title: "The Class"
+author: "Ranae N. Dietzel"
+date: "April 20, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This semester I taught a one-credit class using R for Data Science and I loved it. We met for one hour every week and worked our way through the book in a very low-pressure environment. We didn't make it very far, but everyone felt like they learned a lot. Because they did learn a lot. 
+
+# Goals for our Class
+
+1. Enable people who intended to learn R to follow through with their intentions. 
+
+# What made the class a success
+
+1. Treating the class like it is just the beginning, not the end.
+   Not rushing.
+   No arbitrary deadlines.
+   Perfect is the enemy of good.
+1. Accomodating other grad school priorities.
+   Customer is always right. 
+1. Not using up time with talking. 
+1. Accountability and community.   
+1. Very small time commitment from me.
+1. R4DS is great. And free. 
+
+#  What could have been better
+
+1. Reading R4DS from a laptop and working in RStudio at the same time was not ideal.
+1. I should have made an answer key.
+1. Wish there was a better way to submit code to me. 
+1. Should have kept the user group going at the same time. 
+
+Why did I teach this class?
+
+For years I have benefitted from the time and efforts of the R community. I have constantly used free tools, consumed tutorials and blog posts, thrown problems at #rstats on Twitter, and earned over 1,000 points on Stack Overflow purely from *asking* questions. I have accumulated a huge debt to the community, but most of my efforts to pay back this debt online have always failed. In the online world, there is always some one faster and better than me that can answer questions and write tutorials. So, I decided to take my contribution offline. 
+
+R is slowly growing in our department, but a majority of grad students begin here never having seen a programming language. There are opportunities to pick up R in a couple classes, but it is not subject of the class. Classes outside of our department  
