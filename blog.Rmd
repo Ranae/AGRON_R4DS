@@ -11,23 +11,44 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This semester I taught a one-credit class using R for Data Science and I loved it. We met for one hour every week and worked our way through the book in a very low-pressure environment. We didn't make it very far, but everyone felt like they learned a lot. Because they did learn a lot. 
+This semester I taught a one-credit class using R for Data Science and I loved it. We met for one hour every week and worked our way through the book in a very low-pressure environment. We only made it through half of the book, but everyone felt like they learned a lot. Because they did learn a lot!
 
-# Goals for our Class
+The structure of this class was to two hours outside of class reading R4DS and one hour in the classroom working on the exercises. 
 
-1. Enable people who intended to learn R to follow through with their intentions. 
+# Goal for our Class
+
+1. Enable people who intended to learn R to follow through with their intentions.
+1. Cultivate an appreciation of R and confidence in approaching and pursuing R.
 
 # What made the class a success
 
-1. Treating the class like it is just the beginning, not the end.
-   Not rushing.
-   No arbitrary deadlines.
-   Perfect is the enemy of good.
-1. Accomodating other grad school priorities.
-   Customer is always right. 
-1. Not using up time with talking. 
-1. Accountability and community.   
+1. I embraced and accomodated the grad school life of my students.
+   
+I'm no stranger to the concept that students are responsible for their own education, that grad school is tough, and that those who want to succeed have to work very, very hard. The problem with this model is it doesn't leave much room for learning new skills that don't have immediate payoff. I really want students to learn these new skills because they have a lot of payoff in the long run! So instead of tough love, I took the approach that I was selling a product. This meant that 1) convenience was priority and 2) the customer is always right.   
+
+Only meeting once a week was attractive to busy grad students. When registration opened, many of the students emailed me about potential conflicts during the semester - field work, interviews, conferences, and tough class schedules. My answers let them know that not only were these activities not problems, this class was designed with those activities in mind and I encouraged them to register. As a one-credit course, grades were based mainly on attendance and participation, but attendance included showing up in an online forum and participation consisted of submitting code (right or wrong). Instead of expressing disappointment in absences, I tried to express, "You're right, that other activity is important. But don't worry, in just two easy steps, you can still do the thing I want you to do!"    
+
+1. I provided accountability and community.
+
+R for Data Science is a great book and it is designed such that anyone can sit there, all alone, and go through the book. While many of us teach ourselves new skills, systematically following this kind of plan is challenging in the face of everything else that needs our attention AND have immediate consequences from neglect. Students taking this class did essentially take themselves through R4DS, but they were required to send me their progress every week. At the same time, they were surrounded by other students experiencing the same challenges and successes, which is a completely different experience than sitting alone with a silent book.  
+
+
+1. I treated the class like it was just the beginning.
+
+I was cautious in designing the syllabus, but it was difficult to judge how far we could get with three hours per week. Not as far as I thought! Instead of sticking to my arbitrary deadlines, I was flexible in adjusting for more time and tried to listen to the class in what they thought they could accomplish. I did not want anyone to make the association that coding = stress. It was really tough to drop later parts of the book from the syllabus. It was easy to think, "Now these students will never learn functions." Instead, I reminded myself that these students have a lifetime of R ahead of them and at only a few hours a week, we were still building a good foundation for how and where to learn future concepts.
+
+The mentality that this course was the beautiful beginning of a long journey and not a race to learn as much R as possible before our time was up also extended to content on smaller scales. Sometimes none of us knew answers to R4DS exercises, especially later in the semester. We would give it our best shot, acknowledge that this was a particular problem we were not going to conquer on that day, and move to covering more exercises. Perhaps someday students will see the same problems again in their work, but perhaps they never will! Maybe they will encounter the answers to those exercises as they become better coders. Who knows, they're just getting started.    
+
+1. Not using up coding time with talking.
+
+I've said that we met for an hour per week, but really it was **only** 50 minutes. This space was meant to be a sanctuary for coding.  It was of the utmost importance that I did not waste any of this time talking. The students had (theoretically) already read about what was going on that day - there was very little I needed to add. Although I am not much of a talker, it was really hard to carry through with this. First, I was really excited about what they were doing! Like 18 people would be about to use dplyr for the first time and all I could say is, "This is going to change your life. Let's get started." I could have easily rattled on for 10 minutes (20% of class)!   
+   
 1. Very small time commitment from me.
+
+I don't have a teaching appointment. I am a postdoc who should be cranking out publications. I managed to teach this course and spend only one hour per week doing it, including an hour before the semester setting up the course (although I thought through it a lot during my commute). I was usually aware that I could have been doing a better job of teaching this course (I'll get to that), but I also realized that the more time I allowed myself to spend on the course, the less likely I was teach it again. I could take care of most of my tasks when students were working on the exercises in the classroom. Mostly I just needed to check if code was turned in, adjust the syllabus, and send out logistical emails. This was easy to do between popping up to scan screens and answer questions. In the beginning, I was able to fall back on some prepared materials I had and provide extra exercises for students who were getting ahead in ggplot2. 
+
+I'm not sure I've ever put so little time into something and gotten so much back in return. Instead of    
+
 1. R4DS is great. And free. 
 
 #  What could have been better
@@ -35,7 +56,8 @@ This semester I taught a one-credit class using R for Data Science and I loved i
 1. Reading R4DS from a laptop and working in RStudio at the same time was not ideal.
 1. I should have made an answer key.
 1. Wish there was a better way to submit code to me. 
-1. Should have kept the user group going at the same time. 
+1. Should have kept the user group going at the same time.
+1. I don't think people were reading. 
 
 Why did I teach this class?
 
