@@ -1,15 +1,15 @@
 ---
-title: "I taught a class"
+title: "Teaching R doesn't have to be hard"
 author: "Ranae N. Dietzel"
-date: "May 2, 2018"
+date: "May 5, 2018"
 ---
 
 
-This semester I taught a one-credit class using R for Data Science and I loved it. We met for one hour every week and worked our way through the book in a very low-pressure environment. We only made it through half of the book, but everyone felt like they learned a lot. Because they did learn a lot!
+This semester I taught a one-credit class using R for Data Science (R4DS) by Grolemund and Wickham and I loved it. Our class met for one hour every week and worked our way through the book in a very low-pressure environment. We only made it through half of the book, but everyone felt like they learned a lot. Because they did learn a lot!
 
-The structure of this class was two hours outside of class reading R4DS and one hour in the classroom working on the exercises. 
+The structure of this class was two hours outside of class reading R4DS and one hour in the classroom working on the exercises. If you are interested in helping people learn R, I really recommend doing something similar! 
 
-## Goals for our Class
+## Goals for our class
 
 #### 1. Enable people who intended to learn R to follow through with their intentions.  
 #### 2. Cultivate an appreciation of R and confidence in approaching and pursuing R.
@@ -22,43 +22,42 @@ I'm no stranger to the concept that students are responsible for their own educa
 
 Only meeting once a week was attractive to busy grad students. When registration opened, many of the students emailed me about potential conflicts during the semester - fieldwork, interviews, conferences, and tough class schedules. My answers let them know that not only were these activities not problems, this class was designed with those activities in mind and I encouraged them to register. As a one-credit course, grades were based mainly on attendance and participation, but attendance included showing up in an online forum and participation consisted of submitting code (right or wrong). Instead of expressing disappointment in absences, I tried to express, "You're right, that other activity is important. But don't worry, in just two easy steps, you can still do the thing I want you to do!"    
 
-#### I provided accountability and community.
+#### **2. I provided accountability and community.**
 
-R for Data Science is a great book and it is designed such that anyone can sit there, all alone, and go through the book. While many of us teach ourselves new skills, systematically following this kind of plan is challenging in the face of everything else that needs our attention AND have immediate consequences from neglect. Students taking this class did essentially take themselves through R4DS, but they were required to send me their progress every week. At the same time, they were surrounded by other students experiencing the same challenges and successes, which is a completely different experience than sitting alone with a silent book.  
+R for Data Science is a great book and it is designed such that anyone can sit there, all alone, and go through the book. While many of us teach ourselves new skills, systematically following this kind of plan is challenging in the face of everything else that needs our attention AND has immediate consequences from neglect. Students taking this class did essentially take themselves through R4DS, but they were required to send me their progress every week. At the same time, they were surrounded by other students experiencing the same challenges and successes, which is a completely different experience than sitting alone with a silent book.  
 
 
-#### I treated the class like it was just the beginning.
+#### **3. I treated the class like it was just the beginning.**
 
 I was cautious in designing the syllabus, but it was difficult to judge how far we could get with three hours per week. Not as far as I thought! Instead of sticking to my arbitrary deadlines, I was flexible in adjusting for more time and tried to listen to the class in what they thought they could accomplish. I did not want anyone to make the association that coding = stress. It was really tough to drop later parts of the book from the syllabus. It was easy to think, "Now these students will never learn functions." Instead, I reminded myself that these students have a lifetime of R ahead of them and at only a few hours a week, we were still building a good foundation for how and where to learn future concepts.
 
 The mentality that this course was the beautiful beginning of a long journey and not a race to learn as much R as possible before our time was up also extended to content on smaller scales. Sometimes none of us knew answers to R4DS exercises, especially later in the semester. We would give it our best shot, acknowledge that this was a particular problem we were not going to conquer on that day, and move to covering more exercises. Perhaps someday students will see the same problems again in their work, but perhaps they never will! Maybe they will encounter the answers to those exercises as they become better coders. Who knows, they're just getting started.    
 
-#### Not using up coding time with talking.
+#### **4. Not using up coding time with talking.**
 
-I've said that we met for an hour per week, but really it was *only* 50 minutes. This space was meant to be a sanctuary for coding.  It was of the utmost importance that I did not waste any of this time talking. The students had (theoretically) already read about what was going on that day - there was very little I needed to add. Although I am not much of a talker, it was really hard to carry through with this. First, I was really excited about what they were doing! Like 18 people would be about to use dplyr for the first time and all I could say is, "This is going to change your life. Let's get started." I could have easily rattled on for 10 minutes (20% of class)!   
+I've said that we met for an hour per week, but really it was *only* 50 minutes. This space was meant to be a sanctuary for coding.  It was of the utmost importance that I did not waste any of this time talking. The students had (theoretically) already read about what was going on that day - there was very little I needed to add. Although I am not much of a talker, it was really hard to carry through with this. First, I was really excited about what they were doing! Like 18 people would be about to use dplyr for the first time and all I could say is, "This is going to change your life. Let's get started." I could have easily rattled on for 10 minutes (20% of class)! During class, I watched for raised hand and walked slowly around looking for problems. If some one was stuck, we would discuss the code.     
    
-#### Very small time commitment from me.
+#### **5. Very small time commitment from me.**
 
 I don't have a teaching appointment. I am a postdoc who should be cranking out publications. I managed to teach this course and spend only one hour per week doing it, including an hour before the semester setting up the course (although I thought through it a lot during my commute). I was usually aware that I could have been doing a better job of teaching this course (I'll get to that), but I also realized that the more time I allowed myself to spend on the course, the less likely I was teach it again. I could take care of most of my tasks when students were working on the exercises in the classroom. Mostly I just needed to check if code was turned in, adjust the syllabus, and send out logistical emails. This was easy to do between popping up to scan screens and answer questions. In the beginning, I was able to fall back on some prepared materials I had and provide extra exercises for students who were getting ahead in ggplot2. 
 
 I'm not sure I've ever put so little time into something and gotten so much back in return. Instead of lecturing to a room of blank faces, I watched students get error messages, correct code, and then successfully run it. I could actually *see* them learning. I could hear discussions progress over the semester as they gave each other tips from something they had just discovered. I won't go as far as saying I watched them *fall in love* with R, but I could see most of the students commit to continuing to use and learn R.      
 
-#### The Tidyverse.
+#### **6. The Tidyverse.**
 
-This course never would have worked if there wasn't a book (free) and a whole world designed specifically for the audience I was also targeting. The reason I could be so hands off was because Wickham and Grolemund did all the heavy lifting in creating and explaining a welcoming environment for beginners. We followed the sequence of the book, starting with making figures and spending a little extra time there for a really fun intro. These students may eventually work outside of the tidyverse, but I don't think they will lose the confidence they built working there. I believe that when they encounter trickier code, they won't give up.    
+This course never would have worked if there wasn't a [book](http://r4ds.had.co.nz) (free) and a [whole world](https://www.tidyverse.org/) designed specifically for the audience I was also targeting. The reason I could be so hands off was because Wickham and Grolemund did all the heavy lifting in creating and explaining a welcoming environment for beginners. We followed the sequence of the book, starting with making figures and spending a little extra time there for a really fun intro. These students may eventually work outside of the tidyverse, but I don't think they will lose the confidence they built working there. I believe that when they encounter trickier code, they won't give up.    
 
 ##What could have been better
 
 1. Students worked off of laptops, and following R4DS and working in RStudio on the same screen was not ideal.
-1. I really should have come up with all the answers to the exercises and provided an answer key at the end of each chapter. But I don't do everything "the right way", so coming up with the proper code would have greatly extended my time commitment. 
-1. To maximize convenience for the students, I had them send me their code in the body of an email. This was a pretty messy system for me. I didn't want to start out with R markdown, but I might do so in the future and use our university's dropbox equivalent to share folders of code.  
+1. I really should have come up with all the answers to the exercises and provided an answer key at the end of each chapter. But I don't do everything in R "the right way", so coming up with the proper code would have greatly extended my time commitment. 
+1. To maximize convenience for the students, I had them send me their code in the body of an email. This was a pretty messy system for me. I didn't want to start out with R Markdown, but I might do so in the future and use our university's dropbox equivalent to share folders of code.  
 1. We usually run an R user group in the department (Rgronomists), but weren't active during the semester this course was taught. It would have been a good resource for the students thirsting for more R.
-1. Towards the end of the class, I don't think anyone was reading ahead of time. I don't think I was doing a good enough job of communicating changes in the syllabus and I wasn't holding anyone accountable for the  
+1. Towards the end of the class, I don't think anyone was reading ahead of time. I wasn't doing a good enough job of communicating changes in the syllabus and I wasn't holding anyone accountable for the extra time it was taking to get through exercises.  
 
 ## Why did I teach this class?
 
-For years I have benefitted from the time and efforts of the R community. I have constantly used free tools, consumed tutorials and blog posts, thrown problems at #rstats on Twitter, and earned over 1,000 points on Stack Overflow purely from *asking* questions. I have accumulated a huge debt to the community, but most of my efforts to pay back this debt online have always failed. In the online world, there is always some one faster and better than me that can answer questions and write tutorials. So, I decided to take my contribution offline. 
+For years I have benefitted from the time and efforts of the R community. I have constantly used free tools, consumed tutorials and blog posts, thrown problems at #rstats on Twitter, and earned over 1,000 points on Stack Overflow purely from *asking* questions. I have accumulated a huge debt to the community, but most of my efforts to pay back this debt online have always failed. In the online world, there is always some one faster and better than me that can answer questions and write tutorials. So, I decided to take my contribution offline to an environment where R knowledge is a little more sparse. 
 
-R is slowly growing in our department, but a majority of grad students begin here never having seen a programming language. There are opportunities to pick up R in a couple classes, but it is not subject of the class. Classes outside of our department  
-
-<center><a href="http://ranae.github.io/">Home</a></center>
+<center><a href="http://ranae.github.io/">Questions and Discussion</a></center>
+<center><a href="http://ranae.github.io/">Personal Website</a></center>
